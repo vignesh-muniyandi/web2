@@ -623,3 +623,12 @@ background-color: rgba(51, 33, 29, .8);
   background-color: rgba(51, 33, 29, .8);
   z-index: -2;
 }
+.footer .foot1 i{
+  width: 100%;
+  font-size: 25px;
+ padding: 10px;
+  flex-direction: row;
+  margin-top: 10px;
+  box-sizing: border-box;
+  border-color: #ccc;
+}
